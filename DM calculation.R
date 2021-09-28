@@ -1,10 +1,10 @@
 
 ###### IMPORTANT NOTES ######
-# 1) Variables should all be in SI units before DSign calculation. 
+# 1) Variables should all be in SI units before DM calculation. 
 #    Check file "Variable units.pdf" for details.
 # 2) The reference population can either be ours or the study population itself ("own.rp").
 # 3) The "var.list" can either be DM9, DM17, or DM31.
-# 4) DSign is usually approximately log-normally distributed. Choose "log = T" if you want to 
+# 4) DM is usually approximately log-normally distributed. Choose "log = T" if you want to 
 #    calculate correlations or other statistical operations requiring a normal distribution.
 
 ##### Example of use: 
