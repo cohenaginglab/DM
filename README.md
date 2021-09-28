@@ -12,7 +12,7 @@ This code is intended to calculate physiological dysregulation using the Mahalan
 4. DM usually has a log-normal distribution. Choose "log = T" if you want to use it in statistical operations that require a normal distribution.
 5. DM calculation requires complete observations, hence NA will be returned when data are missing.
 
-Example of use of the [DM_calc function](https://github.com/cohenaginglab/DM/blob/f4c227e39e806722e2a5aba1c36e27279a3f4cf3/DM%20calculation.R):
+Example of use of the [DM_calc function](https://github.com/cohenaginglab/DM/blob/9a29f512b20c901be2a82c984b7b8dc1a1e78e0d/DM%20calculation.R):
 ```
 data$DM17 <- DM_calc(data, var.list = DM17, own.rp = F, log = T)
 ```
