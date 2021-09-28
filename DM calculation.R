@@ -56,7 +56,7 @@ DM_calc <- function(data, var.list = DM17, own.rp = F, log = F){
   }
   
   # Calculate DM 
-  DM <- sqrt(mahalanobis(as.matrix(dat), var.means, var.cov))
+  DM <- sqrt(mahalanobis(as.matrix(dat), rep(0, length(var.list)), var.cov))
   
   if (log == T) DM <- log(DM)
   
