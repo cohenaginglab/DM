@@ -18,7 +18,7 @@ data$DM17 <- DM_calc(data, var.list = DM17, own.rp = F, log = T)
 ```
 
 ## We also provide the summary statistics needed to calculate DM versions from previous articles:
-- [Dansereau G, Wey TW, Legault V, Brunet MA, Kemnitz JW, Ferrucci L, Cohen AA. Conservation of physiological dysregulation signatures of aging across primates. Aging Cell. 2019 Apr;18(2):e12925. doi: 10.1111/acel.12925.]()
+- [Dansereau G, Wey TW, Legault V, Brunet MA, Kemnitz JW, Ferrucci L, Cohen AA. Conservation of physiological dysregulation signatures of aging across primates. Aging Cell. 2019 Apr;18(2):e12925. doi: 10.1111/acel.12925.](https://github.com/cohenaginglab/DM/blob/94c3c5fe23b9334f7c02d69a0aabf329fb02f41b/Dansereau2019/)
 - [Cohen AA, Legault V, Li Q, Fried LP, Ferrucci L. Men Sustain Higher Dysregulation Levels Than Women Without Becoming Frail. J Gerontol A Biol Sci Med Sci. 2018 Jan 16;73(2):175-184. doi: 10.1093/gerona/glx146.](https://github.com/cohenaginglab/DM/blob/77c32394e36bc7ff092a0ad5fbd752b78ec44094/Cohen2018/)
 - [Cohen AA, Li Q, Milot E, Leroux M, Faucher S, Morissette-Thomas V, Legault V, Fried LP, Ferrucci L. Statistical distance as a measure of physiological dysregulation is largely robust to variation in its biomarker composition. PLoS One. 2015 Apr 13;10(4):e0122541. doi: 10.1371/journal.pone.0122541.](https://github.com/cohenaginglab/DM/blob/e9b8bf261c93aa71a8221fce87f52ea4aeded3cb/Cohen2015/)
 - [Li Q, Wang S, Milot E, Bergeron P, Ferrucci L, Fried LP, Cohen AA. Homeostatic dysregulation proceeds in parallel in multiple physiological systems. Aging Cell. 2015 Dec;14(6):1103-12. doi: 10.1111/acel.12402.](https://github.com/cohenaginglab/DM/blob/e9b8bf261c93aa71a8221fce87f52ea4aeded3cb/Li2015/)
