@@ -1,0 +1,1 @@
+The summary statistics (biomarker means and SDs, and the variance-covariance matrix) provided here are drawn from the article by [Milot et al, 2014](https://www.sciencedirect.com/science/article/pii/S0047637414000682?via%3Dihub). Two DM versions were calculated in this study: a "biological" suite and a "statistical" suite.
