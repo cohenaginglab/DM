@@ -1,1 +1,1 @@
-The summary statistics presented here are drawn from the article by [Li et al, 2015](https://onlinelibrary.wiley.com/doi/10.1111/acel.12402). System-specific DM can be calculated by selecting the corresponding subset of variables.
+The summary statistics presented here can be used to calculate DM with a combined reference population drawn from datasets used in the article by [Li et al, 2015](https://onlinelibrary.wiley.com/doi/10.1111/acel.12402). System-specific DM can be calculated by selecting the corresponding subset of variables.
