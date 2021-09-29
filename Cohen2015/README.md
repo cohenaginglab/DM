@@ -1,0 +1,1 @@
+The summary statistics presented here can be used to calculate DM with a combined reference population from the datasets used in the article by [Cohen et al, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122541).
