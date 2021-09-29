@@ -1,0 +1,1 @@
+The summary statistics provided here can be used to calculate DM with a combined reference population from datasets used in the article by [Dansereau et al, 2019](https://onlinelibrary.wiley.com/doi/10.1111/acel.12925). Two DM versions are available: "Set 1", which is comprised of 24 variables, and "Set 2", which is comprised of 12 variables.
